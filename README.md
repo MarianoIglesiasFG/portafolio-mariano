@@ -1,2 +1,2 @@
 # portafolio-mariano
-Este portafolio esta designado a demostra mis habilidades, enfoques y estilo de trabajo.
+Mi portafolio personal hecho con HTML y CSS
